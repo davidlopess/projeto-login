@@ -35,8 +35,8 @@ p{
 
 section#login{
     background-color: white;
-    width: 250px;
-    height: 515px;
+    width: 300px;
+    height: 550px;
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.554);
@@ -88,7 +88,7 @@ label .material-symbols-outlined {
 }
 
  div input{
-    width: 80%;
+    width: 84%;
     border: 2px solid   #5f2c82  ;
     outline: none;
     border-radius: 10px;
